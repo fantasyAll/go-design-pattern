@@ -1,2 +1,2 @@
 # go-design-pattern
-golang 各种设计模式
+golang 各种设计模式练习
