@@ -7,7 +7,7 @@ type singleton_2 struct {
 
 var instance_2 *singleton_2
 
-// 在包初始化的时候执行
+// 在包加载的时候执行
 func init(){
 	instance_2 = &singleton_2{}
 }
